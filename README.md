@@ -10,3 +10,7 @@ Trained on the DS-2 Dataset, without a Triggerword
 Weights for this model are available in Safetensors format.
 
 [Download](https://huggingface.co/Artples/LAI-ImageGeneration-v1/tree/main) them in the Files & versions tab.
+
+# Usage
+
+Load the LORA Adapter weights with SDXL to use this LORA.
